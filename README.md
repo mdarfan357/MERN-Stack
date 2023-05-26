@@ -4,6 +4,8 @@ A Restaurant Reviews management web application that runs on the MERN Stack arch
 
 # Getting Started with MongoDB Backend server
 
+In the projects backend directory, you can run:
+
 ### `nodemon server`
 
 # Getting Started with Create React App
@@ -12,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the projects frontend directory, you can run:
 
 ### `npm start`
 
