@@ -1,6 +1,11 @@
 # MERN-Stack
 A Restaurant Reviews management web application that runs on the MERN Stack architecture.  
 
+
+# Getting Started with MongoDB Backend server
+
+### `nodemon server`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
