@@ -1,7 +1,7 @@
 {
-    "app_id": "application-0-heyce",
+    "app_id": "restaurant-reviews-pkuvg",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "Restaurant-Reviews",
     "location": "IN-MB",
     "provider_region": "aws-ap-south-1",
     "deployment_model": "LOCAL"
