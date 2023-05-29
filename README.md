@@ -2,11 +2,6 @@
 A Restaurant Reviews management web application that runs on the MERN Stack architecture.  
 
 
-# Getting Started with MongoDB Backend server
-
-In the projects backend directory, you can run:
-
-### `nodemon server`
 
 # Getting Started with Create React App
 
