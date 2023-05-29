@@ -1,6 +1,8 @@
 # MERN-Stack
 A Restaurant Reviews management web application that runs on the MERN Stack architecture.  
 
+The backend uses Express JS to communicate with the Database which is MongoDB and fetches the required results to the frontend with is React JS.
+
 ## Setup
 
 
